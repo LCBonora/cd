@@ -9,7 +9,7 @@ Cont_m = 0
 Cont_f = 0 
 sm = 724
 
-for i in range(1, 4 + 1):
+for i in range(1, 15 + 1):
     Num_op = int(input('Digite o número do operário: '))
     Pecas_op = int(input('Digite a quantidade de peças que o operário produziu: '))
     Sexo_op = str(input('Digite o sexo do operário (M/F): '))
